@@ -165,7 +165,6 @@ int main()
             }
             break;
         case 5:
-            // Display balance for a specific account
             if (count > 0)
             {
                 int accountIndex;
