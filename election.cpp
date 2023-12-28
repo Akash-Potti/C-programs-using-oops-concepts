@@ -54,7 +54,7 @@ void election::display()
     cout << "Percemtage of vote recieved is " << percent << endl;
 }
 
-int main() // Corrected the return type of main to int
+int main() 
 {
     int candidate;
     cout << "Enter the number of candidates: ";
